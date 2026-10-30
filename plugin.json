@@ -1,0 +1,22 @@
+{
+  "id": "abyss-plugin-media-lab",
+  "name": "媒体实验室",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "media",
+  "summary": "FFmpeg 批量剪辑 / 音频提取 / 无痕导出 —— 可视化参数输入，Python 后台执行。",
+  "icon": "🎬",
+  "permissions": [
+    "READ_MEDIA_VIDEO",
+    "READ_MEDIA_AUDIO"
+  ],
+  "entry": "com.abyss.tools.plugin.medialab.MediaLabPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-media-lab",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-media-lab/main/patches/index.json",
+  "roadmap": [
+    "v0.2 FFmpeg 管线封装",
+    "v0.3 批量剪辑 UI",
+    "v0.4 无痕导出"
+  ]
+}
