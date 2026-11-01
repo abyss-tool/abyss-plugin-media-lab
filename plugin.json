@@ -12,8 +12,8 @@
     "READ_MEDIA_AUDIO"
   ],
   "entry": "com.abyss.tools.plugin.medialab.MediaLabPlugin",
-  "repo": "Ultra-Guru/abyss-plugin-media-lab",
-  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-media-lab/main/patches/index.json",
+  "repo": "abyss-tool/abyss-plugin-media-lab",
+  "patchChannel": "https://raw.githubusercontent.com/abyss-tool/abyss-plugin-media-lab/main/patches/index.json",
   "roadmap": [
     "v0.2 FFmpeg 管线封装",
     "v0.3 批量剪辑 UI",
